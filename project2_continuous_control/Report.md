@@ -40,7 +40,7 @@ EPSILON_DECAY = 1e-6       # decay parameter of epsilon
 ```
 
 ### Rewards 
-At Episode 266 reached criteria score 30+.
+At Episode 366 reached criteria score 30+.
 This is result of score and moving average of 100 episode.
 
 ![result](img/result.png)
